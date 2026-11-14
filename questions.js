@@ -317,14 +317,14 @@ questions = [
         }
     },
     {
-        "id":41,
+        "id":42,
         "question": "'Cringe' kinks gross me out or bother me in some way.",
         "effect": {
             "openness": -2,
         }
     },
     {
-        "id":41,
+        "id":43,
         "question": "Bodily waste does not belong in the bedroom.",
         "effect": {
             "openness": -2,
