@@ -71,9 +71,9 @@
     destruction     = getQueryVariable("safety")
     openness   = getQueryVariable("experimentation")
     expression  = (100 - constriction).toFixed(1)
-    innocence  = (100 - experience   ).toFixed(1)
-    destruction        = (100 - protection).toFixed(1)
-    experimentation    = (100 - conservatism).toFixed(1)
+    experience  = (100 - innocence   ).toFixed(1)
+    protection        = (100 - destruction).toFixed(1)
+    conservatism    = (100 - experimentation).toFixed(1)
 
 
     window.onload = function() {
