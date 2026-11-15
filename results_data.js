@@ -11,11 +11,11 @@
     };
 
     axisArrays = {
-            "frisson": ["Permalocked","Chaste","Neutral","Hedonistic","Self-Indulgent"],
-            "sublimation": ["Obedient", "Submissive", "Balanced", "Equal", "Free Spirit"],
-            "maturity": ["Childlike", "Immature", "Neutral", "Orderly", "Mature"],
-            "safety": ["Self-destructive","Suffering Enjoyer","Balanced","Self-preservationist","“Please tell me everything will be OK?”"],
-            "openness": ["Try everything at least once!","Try most things at least once!","Try some things at least once!","Close-minded","Puritan"]
+            "frisson": ["Self-Indulgent","Hedonistic","Neutral","Chaste","Permalocked"],
+            "sublimation": ["Free Spirit", "Egalitarian", "Balanced", "Submissive", "Obedient"],
+            "maturity": ["Mature", "Orderly", "Neutral", "Immature", "Childlike"],
+            "safety": ["“Please tell me everything will be OK?","Self-preservationist","Balanced","Suffering Enjoyer","Self-Destructive"],
+            "openness": ["Puritan","Close-minded","Balanced","Experimentalist","Unapologetic Freak"]
     };
 
 // Values
