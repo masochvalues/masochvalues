@@ -14,7 +14,7 @@
             "frisson": ["Self-Indulgent","Hedonistic","Neutral","Chaste","Permalocked"],
             "sublimation": ["Free Spirit", "Egalitarian", "Balanced", "Submissive", "Obedient"],
             "maturity": ["Mature", "Orderly", "Neutral", "Immature", "Childlike"],
-            "safety": ["“Please tell me everything will be OK?","Self-preservationist","Balanced","Suffering Enjoyer","Self-Destructive"],
+            "safety": ["“Please tell me everything will be OK?","Self-Preservationist","Balanced","Suffering Enjoyer","Self-Destructive"],
             "openness": ["Puritan","Close-minded","Balanced","Experimentalist","Unapologetic Freak"]
     };
 
