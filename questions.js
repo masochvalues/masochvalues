@@ -193,7 +193,7 @@ questions = [
     },
     {
         "id":25,
-        "question": "Rape shouldn't be so strictly punished by society — perhaps some people out there want it to happen.",
+        "question": "Bullying shouldn't be so strictly punished by society — perhaps some people out there want it to happen.",
         "effect": {
             "safety": 2,
             "openness": 2,
